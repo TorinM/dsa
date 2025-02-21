@@ -47,6 +47,6 @@ One way to implement is with a static array:
 2. Add elements and keep track of the number adding
 3. If adding would exceed the size of the array, create a new static array double the size and copy all elements to that new array, then add the value
 
-### Source Code Implementation
+## Source Code Implementation
 
 Implemented dynamic array in python [here](/datastructures/src/DynamicArray.py)
